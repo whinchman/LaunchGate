@@ -1,0 +1,6 @@
+LaunchGate.swift
+	public class LaunchGate
+AlertConfiguration.swift
+	public struct AlertConfiguration: Dialogable, Rememberable
+UpdateConfiguration.swift
+	public struct UpdateConfiguration: Dialogable, Rememberable
