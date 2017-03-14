@@ -102,8 +102,8 @@ work similarly on both iOS & Android:
 >
 >
 > Example cross-platform configuration:
->
-> ```json
+
+```json 
 {
   "android": {
     "requiredUpdate": {
@@ -153,7 +153,7 @@ per version. That way users aren't nagged relentlessly every time they open the 
 > **Scenario:** You've released a significant update to your app and want to
 encourage users that do not have automatic updates enabled to upgrade.
 
-```json
+>```json
 {
   "ios": {
     "optionalUpdate": {
